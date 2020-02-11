@@ -4,5 +4,4 @@ def prime?(int)
       return false if (int % n == 0)
       end
       true
-    end
 end
